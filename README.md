@@ -2,4 +2,4 @@
 Repo to store Project Euler solutions
 
 TO DO:
-Upload previous solutions
+~~Upload previous solutions~~
